@@ -27,3 +27,6 @@ To run the app:
    cargo build --release
 ________________________________________
 Also added compiled version https://github.com/EnPaulius/spawn_cell_egui/releases/tag/spawn_cell_egui
+
+
+![image](https://github.com/user-attachments/assets/18673e23-13a7-42bc-ac18-67881b746049)
