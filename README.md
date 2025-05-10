@@ -25,3 +25,5 @@ To run the app:
 2. Build it using Rust:
    ```bash
    cargo build --release
+________________________________________
+Also added compiled version https://github.com/EnPaulius/spawn_cell_egui/releases/tag/spawn_cell_egui
